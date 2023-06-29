@@ -15,4 +15,5 @@ or perform an action in the physical world.
 
 Machine learning is one way to use AI. 
 It was defined in the 1950s by AI pioneer Arthur Samuel as “the field of study that gives computers the ability to learn without explicitly being programmed.”
-### Data taken from https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained
+#### Data taken from <a href="https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained" target="_blank">Link</a>
+
