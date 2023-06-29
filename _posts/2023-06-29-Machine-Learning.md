@@ -1,5 +1,5 @@
 ---
-title: "My Blog"
+title: "Machine Learning"
 date: 2023-06-29
 ---
 # What is machine learning?
